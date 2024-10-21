@@ -1,7 +1,6 @@
 <div >
   <div align="center">
-  <h2>Hi there 👋</h2>
-  <body1>Welcome to my GitHub profile! I'm thrilled to have you here.</body1>
+  <h4>Welcome to my GitHub profile! I'm thrilled to have you here.</h4>
     <h1> I am a Full Stack Java Developer</h1>
   </div>
 
@@ -17,11 +16,5 @@
   <p>All of my projects are available <a href="https://github.com/chinna20g3?tab=repositories">here</a>.</p>
 
   <h2>Languages</h2>
-  <ul>
-    <li>🟡 <strong>Java</strong></li>
-    <li>🚀 <strong>Spring Boot</strong></li>
-    <li>⚛️ <strong>React.js</strong></li>
-    <li>🌐 <strong>Next.js</strong></li>
-    <li>🗄️ <strong>MySQL</strong></li>
-  </ul>
+ 🟡 Java, 🚀 Spring Boot, ⚛️ React.js, 🌐 Next.js, 🗄️ MySQL
 </div>
