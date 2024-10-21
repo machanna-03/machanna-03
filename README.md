@@ -1,6 +1,10 @@
-# Hi there 👋
+<p align="center">
+  <h4># Hi there 👋</h4>
+  
+ <body1> Welcome to my GitHub profile! I'm thrilled to have you here.<body1>
 
-Welcome to my GitHub profile! I'm thrilled to have you here.
+  <h2>I am a Full Stack Developer</h2>
+</p>
 
 ## About Me
 - 🔭 I’m currently working at Codesight Global Solutions.
