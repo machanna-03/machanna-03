@@ -1,8 +1,8 @@
 <div >
   <div align="center">
-  <h4>Hi there 👋</h4>
-  <p>Welcome to my GitHub profile! I'm thrilled to have you here.</p>
-    <h2> I am a Full Stack Hava Developer</h2>
+  <h2>Hi there 👋</h2>
+  <body1>Welcome to my GitHub profile! I'm thrilled to have you here.</body1>
+    <h1> I am a Full Stack Java Developer</h1>
   </div>
 
   <h2>About Me</h2>
