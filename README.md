@@ -13,7 +13,7 @@
   </ul>
 
   <h2>Projects</h2>
-  <p>All of my projects are available <a href="https://github.com/chinna20g3?tab=repositories">here</a>.</p>
+  <p>All of my projects are available <a href="https://github.com/chinna20g3?tab=repositories">Here</a>.</p>
 
   <h2>Languages</h2>
  🟡 Java, 🚀 Spring Boot, ⚛️ React.js, 🌐 Next.js, 🗄️ MySQL
