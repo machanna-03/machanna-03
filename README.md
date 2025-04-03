@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=machanna-03&show_icons=true&theme=radical" alt="machanna-03" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=machanna-03&theme=radical" alt="machanna-03" width="48%"/>
+  <img src="https://https://github-readme-streak-stats.herokuapp.com/?user=machanna-03&theme=radical" alt="machanna-03" width="48%"/>
 </p>
 
 ---
