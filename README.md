@@ -2,14 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+👋;Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+Microservices" alt="Typing SVG" />
   
   <p align="center">
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <a href="https://linkedin.com/in/gorantla-machanna-0173422b0/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:machanna037@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://twitter.com/yourhandle">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
   </p>
 </div>
@@ -19,9 +16,9 @@
 ### 🚀 About Me
 
 <p align="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinna20g3&show_icons=true&locale=en&layout=compact&theme=radical" alt="chinna20g3" width="300"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=machanna-03&show_icons=true&locale=en&layout=compact&theme=radical" alt="machanna-03" width="300"/>
   
-  - 💼 Currently working at **SN Info Systems** as a Full Stack Developer  
+  - 💼 Currently working at **SN Info Systems** as a Full Stack Java Developer  
   - 🌱 Learning **Data Structures and Algorithm**  
   - 👨‍💻 Passionate about building **scalable backend systems**  
   - 🎯 20245 Goals: Contribute to open source & earn AWS certification  
@@ -52,14 +49,15 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinna20g3&show_icons=true&theme=radical" alt="chinna20g3" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinna20g3&theme=radical" alt="chinna20g3" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=machanna-03&show_icons=true&theme=radical" alt="machanna-03" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=machanna-03&theme=radical" alt="machanna-03" width="48%"/>
 </p>
 
 ---
@@ -74,17 +72,7 @@
 | [BookMyPainter](https://github.com/chinna20g3/) | Collaborative Online Paint Booking System | Next.js, Php, PhpMyAdmin |
 | [API Gateway](https://github.com/chinna20g3/) | RazorPay API and Email API gateway implementation|
 
-📌 All my projects are available [here](https://github.com/chinna20g3?tab=repositories)
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Microservices Architecture Patterns](https://example.com)
-- [Spring Boot Best Practices](https://example.com)
-- [React Performance Optimization](https://example.com)
-<!-- BLOG-POST-LIST:END -->
+📌 All my projects are available [here](https://github.com/machanna-03?tab=repositories)
 
 ---
 
