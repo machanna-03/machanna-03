@@ -68,9 +68,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [GetMyCollege Platform](https://github.com/chinna20g3/) | Full-featured online Educational Admission system | Spring Boot, React, MySQL |
-| [BookMyPainter](https://github.com/chinna20g3/) | Collaborative Online Paint Booking System | Next.js, Php, PhpMyAdmin |
-| [API Gateway](https://github.com/chinna20g3/) | RazorPay API and Email API gateway implementation|
+| [GetMyCollege Platform](https://getmycollege.com) | Full-featured online Educational Admission system | Spring Boot, React, MySQL |
+| [BookMyPainter](https://bookmypainter.com) | Collaborative Online Paint Booking System | Next.js, Php, PhpMyAdmin |
+| [API Gateway](https://getmybranding.oneadsmanager.com) | RazorPay API and Email API gateway implementation|
 
 📌 All my projects are available [here](https://github.com/machanna-03?tab=repositories)
 
