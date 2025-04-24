@@ -18,7 +18,7 @@
 <p align="left">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=machanna-03&show_icons=true&locale=en&layout=compact&theme=radical" alt="machanna-03" width="300"/>
   
-  - 💼 Currently working at **SN Info Systems** as a Full Stack Java Developer  
+  - 💼 Currently working at **SN Info Systems** as a Software Engineer  
   - 🌱 Learning **Data Structures and Algorithm**  
   - 👨‍💻 Passionate about building **scalable backend systems**  
   - 🎯 20245 Goals: Contribute to open source & earn AWS certification  
@@ -36,7 +36,7 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 #### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
