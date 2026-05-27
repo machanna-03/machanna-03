@@ -17,7 +17,7 @@
 - 🌱 Learning **Data Structures and Algorithms**
 - 👨‍💻 Passionate about building **scalable backend systems**
 - 🎯 2025 Goals: Contribute to **Open Source** & earn **AWS Certification**
-- 🧩 Fun Fact: I can solve a **Rubik’s Cube in under 1:40 minutes!**
+- 🧩 Fun Fact: I can solve a **Rubik’s Cube in under 1:20 seconds!**
 - 📫 Reach me at: [machanna037@gmail.com](mailto:machanna037@gmail.com)
 
 ---
